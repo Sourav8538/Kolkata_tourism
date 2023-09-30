@@ -9,7 +9,7 @@ header{
     height: 100vh;
     background-image: url(https://i.pinimg.com/originals/90/1c/ec/901cecca687b5a44d56ad823aa7005da.jpg);
     background-repeat: no-repeat;
-     background-size: contain;
+     background-size: cover;
        /* background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,.15)),url(https://cdn.pixabay.com/photo/2021/08/21/16/57/victoria-memorial-6563224_960_720.jpg); */
 
     /* background-color: aqua; */
